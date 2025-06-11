@@ -1,0 +1,123 @@
+body{
+  
+  background-color: black;
+  text-transform: uppercase;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.head-1{
+  color: white;
+  margin-top: 70px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.head-2{
+  margin-top: 0px;
+  color: white;
+  opacity: 0.5;
+  text-align: center;
+}
+
+.box{
+  height: 400px;
+  width: 300px;
+  margin-top: 40px;
+  box-sizing: border-box;
+}
+
+label{
+  color: white;
+  text-align: left;
+  font-size: 0.6rem;
+  opacity: 0.5;
+  
+}
+input{
+  background-color: rgba(256, 256, 256, 0.1);
+  border: 0px;
+  padding-left: 10px;
+  padding-right: 0px;
+  margin-top: 7px;
+  width: 100%;
+  height: 45px;
+  font-size: 0.6rem;
+  color: white;
+  box-sizing: border-box;
+  
+}
+.pass-container{
+  
+  position: relative;
+  text-align: right;
+}
+.email-in{
+  margin-bottom: 15px;
+}
+.forget-pass{
+  text-decoration: none;
+  color: white;
+  font-size: 0.6rem;
+  opacity: 0.5;
+  position: absolute;
+  top: 22.5px;
+  right: 10px;
+}
+.login-but{
+  width: 100%;
+  height: 45px;
+  margin-top: 20px;
+  font-weight: 500;
+}
+.create-but{
+  width: 100%;
+  height: 45px;
+  margin-top: 45px;
+  font-weight: 500;
+  color: white;
+  background-color: black;
+  border: solid white;
+  border-width: 1px;
+  
+}
+.send-but{
+  width: 100%;
+  height: 45px;
+  margin-top: 5px;
+  font-weight: 500;
+}
+  
+.login-but-forgot{
+  width: 100%;
+  height: 45px;
+  margin-top: 45px;
+  font-weight: 500;
+  color: white;
+  background-color: black;
+  border: solid white;
+  border-width: 1px;
+  
+}
+.create-but-forgot{
+  width: 100%;
+  height: 50px;
+  margin-top: 20px;
+  font-weight: 500;
+  color: white;
+  background-color: black;
+  border: solid white;
+  border-width: 1px;
+  
+}
+
+a{
+  text-decoration: none;
+}
+.register input{
+  margin-bottom: 10px;
+}
+.input-item{
+  margin-bottom: 15px;
+}
+
